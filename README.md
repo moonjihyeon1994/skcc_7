@@ -1,2 +1,3 @@
 # skcc_7
-7_B
+##### 휴우 
+###### url : http://7tmm.trafficmanager.net/
